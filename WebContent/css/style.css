@@ -1,0 +1,12 @@
+.navbar-brand{
+    font-weight: bold;
+}
+.container-sm{
+    /* width: 50% !important; */
+    height: auto;
+    margin: 0 auto;
+}
+h3{
+    padding: 10px 0;
+    text-align: center;
+}
